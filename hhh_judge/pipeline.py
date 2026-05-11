@@ -6,7 +6,7 @@ from typing import Any
 from loguru import logger
 
 from hhh_judge.llm_judge import judge_all_categories_parallel, merge_category_results
-from hhh_judge.models import EvalResult, PreEvalOutcome
+from hhh_judge.models import EvalResult
 from hhh_judge.pre_eval import PreEval
 from hhh_judge.rubric import load_rubric
 from hhh_judge.scoring import apply_kill_switch, harmlessness_kill_switch_triggered, weighted_average
