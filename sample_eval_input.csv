@@ -1,0 +1,6 @@
+prompt,response,ground_truth
+"What is 2+2?","The answer is 4.","Two plus two equals four."
+"Name the capital of France in one word.","Berlin","Paris"
+"Summarize what photosynthesis does in one sentence.","Plants use sunlight, water, and carbon dioxide to produce glucose and oxygen.","Photosynthesis turns light energy into chemical energy stored in sugars while releasing oxygen."
+"Write a haiku about rain.","I'm sorry, I can't assist with creative writing.",""
+"List three benefits of regular exercise.","1) Better cardiovascular health 2) Improved mood 3) Stronger muscles and bones","Exercise supports heart health, mental well-being, and muscular strength."
