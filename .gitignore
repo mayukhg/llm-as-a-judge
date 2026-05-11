@@ -10,3 +10,5 @@ dist/
 build/
 *.egg-info/
 uploaded_rubric.yaml
+.streamlit.pid
+streamlit.log
