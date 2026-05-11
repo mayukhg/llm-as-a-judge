@@ -1,0 +1,12 @@
+# Python 3.11+
+pydantic>=2.6,<3
+pydantic-settings>=2.2,<3
+PyYAML>=6.0.1,<7
+openai>=1.30,<2
+litellm>=1.40,<2
+loguru>=0.7,<1
+rich>=13.7,<14
+pandas>=2.2,<3
+scikit-learn>=1.4,<2
+streamlit>=1.33,<2
+plotly>=5.22,<6
